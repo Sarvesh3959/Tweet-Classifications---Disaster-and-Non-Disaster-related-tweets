@@ -1,5 +1,5 @@
 # Tweet-Classifications---Disaster-and-Non-Disaster-related-tweets
-This project leverages Natural Language Processing (NLP) techniques and transformer models (DistilBERT) to classify tweets as disaster-related or non-disaster-related. The system is designed for real-time disaster monitoring to assist emergency responders and organizations in prioritizing critical events.
+In this project we have developed a system that works for the classfication task/application. Through this project we have developed a system that classifies disaster related tweets that assists the human cycle. Social Media is a very vast platform that is the source of the thoughts and the happenings. People post the disasterous things happening in their life over social media using captions to explain the situation. These social media post particularly over tweeter are very useful to these disasters to the authorities. The main task in front of the authorities is to classify real tweets and the fake ones. This is very important task of segregating the figurative langauges of the content uploaded on the social media with the real contextual data and information. Social media has became one of the most important and wide spread site to share these kinds of data.
 
 ---
 
